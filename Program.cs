@@ -28,3 +28,5 @@ else
 {
     Console.WriteLine("Równanie nie ma pierwiastków rzeczywistych.");
 }
+
+Console.ReadLine();
