@@ -7,4 +7,12 @@ Console.WriteLine("C:");
 double c = double.Parse(Console.ReadLine());
 
 double dlt = b * b - 4 * a * c;
-Console.WriteLine(dlt);
+
+if (dlt > 0)
+{
+    double x1 = (-b + Math.Sqrt(dlt)) / (2 * a);
+    double x2 = (-b - Math.Sqrt(dlt)) / (2 * a);
+    Console.WriteLine("Równanie ma dwa pierwiastki rzeczywiste:");
+    Console.WriteLine("x1 = " + x1);
+    Console.WriteLine("x2 = " + x2);
+}
