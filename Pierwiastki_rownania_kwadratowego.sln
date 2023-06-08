@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pierwiastki_rownania_kwadratowego", "Pierwiastki_rownania_kwadratowego.csproj", "{AE4A97A1-27FC-4C6F-9BBF-44B12A3D861F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE4A97A1-27FC-4C6F-9BBF-44B12A3D861F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE4A97A1-27FC-4C6F-9BBF-44B12A3D861F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE4A97A1-27FC-4C6F-9BBF-44B12A3D861F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE4A97A1-27FC-4C6F-9BBF-44B12A3D861F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF5D99BA-37EB-47BF-B8EC-F8331EC41798}
+	EndGlobalSection
+EndGlobal
