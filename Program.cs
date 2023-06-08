@@ -16,3 +16,15 @@ if (dlt > 0)
     Console.WriteLine("x1 = " + x1);
     Console.WriteLine("x2 = " + x2);
 }
+
+else if (dlt == 0)
+{
+    double x = -b / (2 * a);
+    Console.WriteLine("Równanie ma jeden pierwiastek rzeczywisty:");
+    Console.WriteLine("x = " + x);
+}
+
+else
+{
+    Console.WriteLine("Równanie nie ma pierwiastków rzeczywistych.");
+}
